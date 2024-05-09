@@ -30,4 +30,4 @@ Através da plataforma do Google AI Studio, todos os Pai's são criados através
 sempre com muito amor e carinho.♥️
 
 
-⚠️🚨*Obs: O projeto e a plataforma do Google ia Studio ainda estão em desenvolvimento, sendo assim, algumas funcionalidades podem estar indisponíveis.
+⚠️🚨*Obs: O projeto e a plataforma do Google ia Studio ainda estão em desenvolvimento, sendo assim, algumas funcionalidades podem infelizmente estarem indisponíveis.
