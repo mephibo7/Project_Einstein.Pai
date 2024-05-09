@@ -14,7 +14,7 @@ Através da plataforma do Google AI Studio, todos os Pai's são criados através
 
 *Quais as funcionalidades específicas do Einstein.Pai?
 
-💡Explicar assuntos cientificos de forma simples e divertida mesmo para crianças, usando imagens, videos e emojis
+💡Explicar assuntos cientificos de forma simples e divertida mesmo para crianças, usando imagens, videos e emojis!
 
 🤔Desenvolver Insights e hipóteses sobre a ciência, e quem sabe você pode ser o próximo grande cientista!
 
@@ -29,5 +29,6 @@ Através da plataforma do Google AI Studio, todos os Pai's são criados através
 🩺Dar conselhos e apoio sobre a vida escolar, acadêmica e familiar,
 sempre com muito amor e carinho.♥️
 
+"Mais do que um assistente virtual, um Pai".
 
 ⚠️🚨*Obs: O projeto e a plataforma do Google ia Studio ainda estão em desenvolvimento, sendo assim, algumas funcionalidades podem infelizmente estarem indisponíveis.
