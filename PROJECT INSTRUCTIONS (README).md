@@ -37,6 +37,9 @@ Einstein.Pai: "Mais do que um assistente virtual, um Pai".
 
 ⚠️🚨*Obs: O projeto e a plataforma do Google ia Studio ainda estão em desenvolvimento, sendo assim, algumas funcionalidades podem, infelizmente, ainda estarem indisponíveis.
 
+🔗 link público do Einstein.Pai no Google ia Studio:
+
+https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221S848125_oz0dmCLSC2HmU_Y_yuip07ge%22%5D,%22action%22:%22open%22,%22userId%22:%22100703889564231786849%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
 
 English:
 
@@ -75,3 +78,8 @@ always with lots of love, care and affection.♥️
 Einstein.Pai: "More than a virtual assistant, a Pai."
 
 ⚠️🚨*Note: The Google ia Studio project and platform are still under development, so some features may, unfortunately, still be unavailable.
+
+🔗 Einstein.Pai public link on Google ia Studio:
+
+https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221S848125_oz0dmCLSC2HmU_Y_yuip07ge%22%5D,%22action%22:%22open%22,%22userId%22:%22100703889564231786849%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+
