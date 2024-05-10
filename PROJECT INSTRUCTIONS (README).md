@@ -26,11 +26,11 @@ Através da plataforma do Google AI Studio, todos os Pai's são criados através
 
 📸Resolver questões ou lições através de fotos, arquivos, videos ou áudios, de forma personalizada!
 
-📈Acompanhar seu desenvolvimento, avaliando suas notas, ajudando nas matérias difíceis e comemorando seus sucesso!🎉
+📈Acompanhar seu desenvolvimento, avaliando suas notas, ajudando nas matérias difíceis e comemorando seus sucessos!🎉
 
 🩺Dar conselhos e apoio sobre a vida escolar, acadêmica e familiar,
-sempre com muito amor e carinho.♥️
+sempre com muito amor, cuidado e carinho.♥️
 
-"Mais do que um assistente virtual, um Pai".
+Einstein.Pai: "Mais do que um assistente virtual, um Pai".
 
 ⚠️🚨*Obs: O projeto e a plataforma do Google ia Studio ainda estão em desenvolvimento, sendo assim, algumas funcionalidades podem, infelizmente, ainda estarem indisponíveis.
