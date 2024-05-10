@@ -1,4 +1,6 @@
 # Project_Einstein.Pai
+Português:
+
 O projeto Einstein.Pai 😛(Personal artificial intelligence) é o 1° projeto baseado em um novo conceito na criação de chatbot's alimentados por AI no Brasil. 🇧🇷 🥇 🎉🎊🪅
 
 
@@ -34,3 +36,42 @@ sempre com muito amor, cuidado e carinho.♥️
 Einstein.Pai: "Mais do que um assistente virtual, um Pai".
 
 ⚠️🚨*Obs: O projeto e a plataforma do Google ia Studio ainda estão em desenvolvimento, sendo assim, algumas funcionalidades podem, infelizmente, ainda estarem indisponíveis.
+
+
+English:
+
+The Einstein.Pai 😛 (Personal artificial intelligence) project is the 1st project based on a new concept in the creation of chatbots powered by AI in Brazil. 🇧🇷 🥇 🎉🎊  
+
+
+*What are Pai's 🧔‍♂️🤖 (Personal artificial intelligence's)?
+
++ Human:
+Pai's are personal artificial intelligences created with specific instructions, parameters and prompt engineering to meet different demands in a more humanized and natural way.
+
+
+*What is the main difference between the common ai chatbot 🤖 and a Pai 🧔‍♂️?
+
++ Natural:
+Through the Google AI Studio platform, all Pai's are created through a system of instructions 👨🏽‍💻 Zero_codes (#0), that is, without the need for codes🚫, just prompt's in NLP, which makes it so much easier for companies as well as developers who can focus on engineering programming from the prompt to generate AI chatbot's + accurate🎯, + creative🎨 and + useful⏳ in a + easy 😌 way.
+
+
+*What are the specific features of Einstein.Pai?
+
+💡Explain scientific subjects in a simple and fun way, even for children, using images, videos and emojis!
+
+🤔Develop insights and hypotheses about science, and who knows, you could be the next great scientist!
+
+🧪Create simplified formulas based on our ideas and test them in real time!
+
+✍🏽Help with the creation of scientific articles with references and everything! 📚
+
+📸Solve questions or lessons through photos, files, videos or audio, in a personalized way!
+
+📈Track your development, evaluating your grades, helping with difficult subjects and celebrating your successes!🎉
+
+🩺Give advice and support about school, academic and family life,
+always with lots of love, care and affection.♥️
+
+Einstein.Pai: "More than a virtual assistant, a Pai."
+
+⚠️🚨*Note: The Google ia Studio project and platform are still under development, so some features may, unfortunately, still be unavailable.
