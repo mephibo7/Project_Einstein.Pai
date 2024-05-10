@@ -4,12 +4,14 @@ O projeto Einstein.Pai 😛(Personal artificial intelligence) é o 1° projeto b
 
 *O que são Pai's 🧔‍♂️🤖(Personal artificial intelligence's) ?
 
-São inteligências artificiais pessoais criadas com instruções, parâmetros e engenharia de prompt's específicos para atender diferentes demandas de forma mais humanizada e natural do que uma inteligência artificial comum.
++ Humano:
+Pai's são inteligências artificiais pessoais criadas com instruções, parâmetros e engenharia de prompt's específicos para atender diferentes demandas de forma mais humanizada e natural.
 
 
-*Qual a principal diferença entre uma ai 🤖 e um Pai🧔‍♂️?
+*Qual a principal diferença entre o chatbot de ai comum 🤖 e um Pai🧔‍♂️?
 
-Através da plataforma do Google AI Studio, todos os Pai's são criados através de um sistema de instruções 👨🏽‍💻 Zero_codes (#0), ou seja, sem a necessidade de códigos🚫, apenas prompt's em PNL, o que facilita o foco da programação na engenharia do prompt para gerar AI chatbot's + precisos🎯, + criativos🎨 e + úteis⏳ de uma maneira + fácil 😌.
++ Natural:
+Através da plataforma do Google AI Studio, todos os Pai's são criados através de um sistema de instruções 👨🏽‍💻 Zero_codes (#0), ou seja, sem a necessidade de códigos🚫, apenas prompt's em PNL, o que facilita tanto para as empresas como para os desenvolvedores que podem focar na programação de engenharia do prompt para gerar AI chatbot's + precisos🎯, + criativos🎨 e + úteis⏳ de uma maneira + fácil 😌.
 
 
 *Quais as funcionalidades específicas do Einstein.Pai?
@@ -31,4 +33,4 @@ sempre com muito amor e carinho.♥️
 
 "Mais do que um assistente virtual, um Pai".
 
-⚠️🚨*Obs: O projeto e a plataforma do Google ia Studio ainda estão em desenvolvimento, sendo assim, algumas funcionalidades podem infelizmente estarem indisponíveis.
+⚠️🚨*Obs: O projeto e a plataforma do Google ia Studio ainda estão em desenvolvimento, sendo assim, algumas funcionalidades podem, infelizmente, ainda estarem indisponíveis.
